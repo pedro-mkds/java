@@ -1,5 +1,6 @@
-import javax.swing.*;
+package exercicios;
 import java.awt.*;
+import javax.swing.*;
 
 public class TelaEstilizada extends JFrame {
 

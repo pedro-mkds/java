@@ -1,5 +1,4 @@
-package Exercicios;
-
+package exercicios;
 import java.util.Date;
 
 public class Ex1 {
