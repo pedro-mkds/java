@@ -3,7 +3,7 @@ package exercicios;
 import java.awt.Dimension;
 import java.awt.Toolkit;
 
-public class Ex3 {
+public class ProgramaRes {
     public static void main(String[] args) {
         Toolkit tk = Toolkit.getDefaultToolkit();
         Dimension screenSize = tk.getScreenSize();
